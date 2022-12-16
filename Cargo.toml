@@ -1,8 +1,14 @@
 [package]
-name = "my-project"
-version = "0.1.0"
-authors = ["runner"]
+name = "bmi"
+version = "0.1.2"
+authors = ["Bhavik Limani <limanibhavik@gmail.com>"]
 edition = "2021"
+license = "MIT"
+description = "A Simple BMI Calculator as per WHO"
+homepage = "https://github.com/LimaniBhavik/BMI-Calculator-Rust"
+repository = "https://github.com/LimaniBhavik/BMI-Calculator-Rust"
+keywords = ["bmi", "calculator", "who"]
+categories = ["command-line-utilities"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 

@@ -14,7 +14,7 @@
 
 fn main() {
     println!("\nBMI Calculator!\n");
-    println!("\nBMI table for Adults by WHO\n
+    println!("\nBMI table for Adults by WHO\n`
 Severe Thinness	< 16
 Moderate Thinness	16 - 17
 Mild Thinness	17 - 18.5
